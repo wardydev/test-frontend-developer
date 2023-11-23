@@ -1,4 +1,3 @@
-import React from "react";
 import ICSearch from "/icons/ICSearch.svg";
 import ICImport from "/icons/ICImport.svg";
 
